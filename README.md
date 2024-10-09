@@ -9,8 +9,8 @@ the whisper web app.
 Tasks:
 
 - [x] implement the client half of the whisper app
-- [ ] add webserver.py for the server half, borrowing from earlier project
-   - [ ] print the appropriate URL for whisper app to console
+- [x] add webserver.py for the server half, borrowing from earlier project
+   - [x] print the appropriate URL for whisper app to console
 - [ ] handle GET for topic list
    - [ ] handle version 0 as a temporary stop-gap
    - [ ] handle version 1 as a temporary stop-gap
