@@ -6,6 +6,10 @@ the whisper web app.
 
 * `web_files` - The files implmenting the client half of the whisper app.
 
+The webserver.py was updated to GET topic lists, POST messages, GET message feed, and POST likes
+for Whisper. It also sorts the topics by most recent activity (message post or like) and
+only shows the 10 most recent messages (even if there are more).
+
 Tasks:
 
 - [x] implement the client half of the whisper app
