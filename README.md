@@ -29,4 +29,4 @@ Tasks:
 - [ ] reach goal: implement other features, e.g. using cookies, etc.
 - [x] project still does not use HTTP related python libraries or modules
 - [x] does not crash under normal usage
-- [ ] Update README.md to describe final state of project, collaboration, etc.
+- [x] Update README.md to describe final state of project, collaboration, etc.
