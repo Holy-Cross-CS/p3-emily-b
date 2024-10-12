@@ -1,0 +1,9 @@
+Name: Emily Bubonovich
+Date: 10/11/24
+Assignment: P3
+
+https://www.geeksforgeeks.org/python-sort-python-dictionaries-by-key-or-value/ 
+Accessed this source Friday 10/11 for 10 minutes to learn about sorting dictionaries
+
+Outside of the notes on python global variables given to us and the source above, I did not access any other 
+websites or get help from anyone else.
